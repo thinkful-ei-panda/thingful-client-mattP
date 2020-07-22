@@ -2,8 +2,8 @@
 
 ## Setting Up
 
-- Install dependencies: `npm install`
+-   Install dependencies: `npm install`
 
 ## Scripts
 
-- Start the application for development: `npm start`
+-   Start the application for development: `npm start`
